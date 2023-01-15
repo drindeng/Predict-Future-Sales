@@ -1,4 +1,4 @@
-# Predict Future Sales
+# Forecasting monthly sales for shops and products: A time-series analysis using historical data
 
 Data: https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/overview
 
